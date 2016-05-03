@@ -1,0 +1,19 @@
+#paper_list {
+    list-style: none !important;
+}
+.paperPiece {
+    font-size: 20px;
+    margin: 5px 10px;
+}
+#score_table {
+    border: solid 1px #a1a6a9;
+    text-align: center;
+}
+#score_table tr {
+    border: solid 1px #a1a6a9;
+    height: 40px;
+}
+#score_table td {
+    border: solid 1px #a1a6a9;
+    width: 200px;
+}
